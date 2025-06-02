@@ -1,4 +1,4 @@
-def coding_helper_agent():
+def even_odd():
     print("Welcome to the Coding Helper Agent!")
     print("This agent can divide your numbers into odd and even.")
 
@@ -33,4 +33,4 @@ def coding_helper_agent():
     print("If it was divisible, it went into the even list; otherwise, it went into the odd list.")
 
 # Function ko call karna
-coding_helper_agent()
+even_odd()
